@@ -8,6 +8,10 @@
 
 - [Radamsa](https://github.com/aoh/radamsa) | [my notes](https://petr-muller.github.io/tools/2018/01/05/radamsa.html) | Extremely simple to setup but powerful, black-box mutation fuzzer
 
+## Performance
+
+- [Pyflame](https://github.com/uber/pyflame) | Profiler that generates flame graphs for Python programs
+
 ## Test Generators
 
 - [Randoop](https://randoop.github.io/randoop/) | [my notes](https://petr-muller.github.io/tools/2017/12/25/randoop.html) | Automated unit test generator for Java
