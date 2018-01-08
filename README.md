@@ -1,5 +1,9 @@
 # Software Quality Tools
 
+## Accessibility
+
+- [Pa11y](http://pa11y.org/) | Automated accessibility web page checker
+
 ## Continuous Stuff
 
 - [Dependency CI](https://dependencyci.com/) | Provides feedback on project dependencies (licenses, security, outdated etc.)
