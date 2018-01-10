@@ -17,7 +17,12 @@
 - [Pyflame](https://github.com/uber/pyflame) | Profiler that generates flame graphs for Python programs
 
 ## Security
+
 - [clair](https://github.com/coreos/clair) | Vulnerability static analyzer for containers
+
+## Static Analysis
+
+- [Flow](https://flow.org/) | Static type checker for JavaScript
 
 ## Test Generators
 
