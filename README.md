@@ -12,6 +12,10 @@
 
 - [Radamsa](https://github.com/aoh/radamsa) | [my notes](https://petr-muller.github.io/tools/2018/01/05/radamsa.html) | Extremely simple to setup but powerful, black-box mutation fuzzer
 
+## Mocks
+
+- [cwrap](https://cwrap.org/) | Allows mocking users, privileges, DNS and network for Linux
+
 ## Performance
 
 - [Pyflame](https://github.com/uber/pyflame) | Profiler that generates flame graphs for Python programs
