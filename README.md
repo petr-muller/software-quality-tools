@@ -28,6 +28,7 @@
 
 - [Flow](https://flow.org/) | Static type checker for JavaScript
 - [Infer](http://fbinfer.com/) | Very powerful static analysis tool for Java, C/C++ and Objective C
+- [ShellCheck](https://www.shellcheck.net/) | Static analyzer for Shell language
 
 ## Test Generators
 
