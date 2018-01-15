@@ -29,6 +29,7 @@
 - [Brakeman](https://brakemanscanner.org/) | [GitHub](https://github.com/presidentbeef/brakeman) | Vulnerability scanner for Ruby on Rails applications
 - [Flow](https://flow.org/) | Static type checker for JavaScript
 - [Infer](http://fbinfer.com/) | Very powerful static analysis tool for Java, C/C++ and Objective C
+- [OCLint](http://oclint.org/) | [GitHub](https://github.com/oclint/oclint) | Static code checker for C, C++ and Objective C
 - [ShellCheck](https://www.shellcheck.net/) | Static analyzer for Shell language
 
 ## Test Generators
