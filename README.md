@@ -32,6 +32,7 @@
 - [Frama-C](http://frama-c.com/) | A heavy-weight, state-of-the-art suite of static analyzers for C
 - [Infer](http://fbinfer.com/) | Very powerful static analysis tool for Java, C/C++ and Objective C
 - [OCLint](http://oclint.org/) | [GitHub](https://github.com/oclint/oclint) | Static code checker for C, C++ and Objective C
+- [reek][https://github.com/troessner/reek)] | Code smell detector for Ruby
 - [ShellCheck](https://www.shellcheck.net/) | Static analyzer for Shell language
 
 ## Test Generators
