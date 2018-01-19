@@ -28,6 +28,7 @@
 ## Static Analysis
 
 - [Brakeman](https://brakemanscanner.org/) | [GitHub](https://github.com/presidentbeef/brakeman) | Vulnerability scanner for Ruby on Rails applications
+- [Cppcheck](https://github.com/danmar/cppcheck) | Light-weight static analyzer for C and C++
 - [Flow](https://flow.org/) | Static type checker for JavaScript
 - [Frama-C](http://frama-c.com/) | A heavy-weight, state-of-the-art suite of static analyzers for C
 - [Infer](http://fbinfer.com/) | Very powerful static analysis tool for Java, C/C++ and Objective C
