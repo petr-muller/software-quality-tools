@@ -40,6 +40,14 @@
 - [reek](https://github.com/troessner/reek) | Code smell detector for Ruby
 - [ShellCheck](https://www.shellcheck.net/) | Static analyzer for Shell language
 
+## Instrumentation Tools
+
+- [Leak Sanitizer](https://clang.llvm.org/docs/LeakSanitizer.html) | LLVM-based run-time memory leak detector
+- [UBSan](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html) | LLVM-based run-time undefined behavior detector for C/C++
+- [Memory Sanitizer](https://clang.llvm.org/docs/MemorySanitizer.html) | LLVM-based run-time unitialized memory read detector
+- [Thread Sanitizer](https://clang.llvm.org/docs/ThreadSanitizer.html) | LLVM-based run-time race condition detector
+- [Address Sanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) | LLVM-based run-time memory error detector
+
 ## Test Generators
 
 - [Randoop](https://randoop.github.io/randoop/) | [my notes](https://petr-muller.github.io/tools/2017/12/25/randoop.html) | Automated unit test generator for Java
