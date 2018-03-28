@@ -12,10 +12,22 @@
 
 - [Dependency CI](https://dependencyci.com/) | Provides feedback on project dependencies (licenses, security, outdated etc.)
 
+## Debuggers
+
+- [GDB Dashboard](https://github.com/cyrus-and/gdb-dashboard) | Modular visual interface for GDB
+
 ## Fuzzers
 
 - [American Fuzzy Lop](http://lcamtuf.coredump.cx/afl/) | White-box, instrumented fuzzer able to efficiently guide the fuzzing to explore new internal states of the system under test
 - [Radamsa](https://github.com/aoh/radamsa) | [my notes](https://petr-muller.github.io/tools/2018/01/05/radamsa.html) | Extremely simple to setup but powerful, black-box mutation fuzzer
+
+## Instrumentation Tools
+
+- [Leak Sanitizer](https://clang.llvm.org/docs/LeakSanitizer.html) | LLVM-based run-time memory leak detector
+- [UBSan](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html) | LLVM-based run-time undefined behavior detector for C/C++
+- [Memory Sanitizer](https://clang.llvm.org/docs/MemorySanitizer.html) | LLVM-based run-time unitialized memory read detector
+- [Thread Sanitizer](https://clang.llvm.org/docs/ThreadSanitizer.html) | LLVM-based run-time race condition detector
+- [Address Sanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) | LLVM-based run-time memory error detector
 
 ## Mocks
 
@@ -39,14 +51,6 @@
 - [OCLint](http://oclint.org/) | [GitHub](https://github.com/oclint/oclint) | Static code checker for C, C++ and Objective C
 - [reek](https://github.com/troessner/reek) | Code smell detector for Ruby
 - [ShellCheck](https://www.shellcheck.net/) | Static analyzer for Shell language
-
-## Instrumentation Tools
-
-- [Leak Sanitizer](https://clang.llvm.org/docs/LeakSanitizer.html) | LLVM-based run-time memory leak detector
-- [UBSan](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html) | LLVM-based run-time undefined behavior detector for C/C++
-- [Memory Sanitizer](https://clang.llvm.org/docs/MemorySanitizer.html) | LLVM-based run-time unitialized memory read detector
-- [Thread Sanitizer](https://clang.llvm.org/docs/ThreadSanitizer.html) | LLVM-based run-time race condition detector
-- [Address Sanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) | LLVM-based run-time memory error detector
 
 ## Test Generators
 
